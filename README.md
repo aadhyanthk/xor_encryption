@@ -22,6 +22,8 @@ Breadboard
 Jumper wires
 
 # Circuit Diagram
+<img src="lights.png" alt="Breadboard and Arduino wiring" width="400"/>
+
 Connect the first LED's anode to digital pin 13 on Arduino through a resistor; cathode to GND.
 
 Connect the second LED's anode to digital pin 8 through a resistor; cathode to GND.
